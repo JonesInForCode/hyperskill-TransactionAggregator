@@ -1,0 +1,26 @@
+type: edu
+files:
+  - name: src/aggregator/Application.java
+    visible: true
+    learner_created: false
+  - name: src/resources/application.properties
+    visible: true
+    learner_created: false
+  - name: test/ApplicationTests.java
+    visible: false
+    learner_created: false
+  - name: test/DataServer.java
+    visible: false
+    learner_created: false
+  - name: build.gradle
+    visible: true
+    learner_created: false
+  - name: src/aggregator/service/AggregatorController.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/40965#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 08 Oct 2024 12:17:47 UTC"
+record: 1
